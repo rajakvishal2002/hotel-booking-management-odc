@@ -35,11 +35,17 @@ This application solves:
 - Date validation rules
 
 ### Booking Workflow
-
+Booked → Checked-In → Checked-Out
+↘ Cancelled
 ### Front Desk Operations
 - Check-in allowed only on booking date
 - Check-out allowed after check-in
 - Cancel reservation before arrival
+### Analytics & Service Operations
+- 7-day occupancy rate visualization
+- Room service billing entry
+- Daily operational dashboard for reception staff
+- Real-time operational awareness for hotel management
 
 ### Dashboard
 Shows:
@@ -108,7 +114,57 @@ Shows:
 ---
 
 ## 📸 ScreenShots
-Screenshots are available in ScreenShot folder you can find there.
+### 🏠 Dashboard – Daily Operations & Occupancy
+Displays:
+- Guests checking in today
+- Guests checking out today
+- Room service section
+- Occupancy rate visualization
+
+![Dashboard](screenshots/Dashboard.png)
+
+---
+
+### 🛏 Room Management – Create Room
+Allows Manager to:
+- Add room number
+- Configure adult & children capacity
+- Set room pricing
+- Assign amenities
+
+![Create Room](screenshots/Create%20Rooms%20Preview.png)
+
+---
+
+### 📋 Room List – Inventory Overview
+Displays:
+- Room number
+- Capacity (Adults / Children)
+- Price per night
+- Navigation to edit details
+
+![Room List](screenshots/Rooms%20List%20Preview.png)
+
+---
+
+### 🧾 Booking Creation – Smart Availability Engine
+Features:
+- Guest information form
+- Date validation
+- Capacity validation
+- "Get Available Room" logic
+
+![Create Booking](screenshots/Create%20Bookings%20Preview.png)
+
+---
+
+### 📊 Booking List – Reservation Management
+Includes:
+- Search by guest name
+- Filter by booking status
+- Lifecycle tracking (Booked / Checked In / Checked Out)
+
+![Booking List](screenshots/Bookings%20List%20Preview.png)
 
 ---
 
