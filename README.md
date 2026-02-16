@@ -121,7 +121,7 @@ Displays:
 - Room service section
 - Occupancy rate visualization
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](ScreenShots/Dashboard.png)
 
 ---
 
@@ -132,7 +132,7 @@ Allows Manager to:
 - Set room pricing
 - Assign amenities
 
-![Create Room](screenshots/Create%20Rooms%20Preview.png)
+![Create Room](ScreenShots/Create%20Rooms%20Preview.png)
 
 ---
 
@@ -143,7 +143,7 @@ Displays:
 - Price per night
 - Navigation to edit details
 
-![Room List](screenshots/Rooms%20List%20Preview.png)
+![Room List](ScreenShots/Rooms%20List%20Preview.png)
 
 ---
 
@@ -154,7 +154,7 @@ Features:
 - Capacity validation
 - "Get Available Room" logic
 
-![Create Booking](screenshots/Create%20Bookings%20Preview.png)
+![Create Booking](ScreenShots/Create%20Bookings%20Preview.png)
 
 ---
 
@@ -164,7 +164,7 @@ Includes:
 - Filter by booking status
 - Lifecycle tracking (Booked / Checked In / Checked Out)
 
-![Booking List](screenshots/Bookings%20List%20Preview.png)
+![Booking List](ScreenShots/Bookings%20List%20Preview.png)
 
 ---
 
