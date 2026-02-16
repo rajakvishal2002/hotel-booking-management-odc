@@ -154,7 +154,7 @@ Features:
 - Capacity validation
 - "Get Available Room" logic
 
-![Create Booking](ScreenShots/Create%20Bookings%20Preview.png)
+![Create Booking](HotelBookingSystem/ScreenShots/Create%20Rooms%20Preview.png)
 
 ---
 
